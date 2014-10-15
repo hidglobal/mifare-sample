@@ -9,7 +9,7 @@ The sample uses industry standard commands from the [PC/SC Specification]
 (http://www.pcscworkgroup.com/specifications/files/pcsc3_v2.01.09.pdf)
 
 For more detailed information, look at the [OMNIKEY Contactless Developer Guide]
-(www.hidglobal.com/omnikey-contactless-developer-guide)
+(http://www.hidglobal.com/omnikey-contactless-developer-guide)
 
 Commands
 --------
